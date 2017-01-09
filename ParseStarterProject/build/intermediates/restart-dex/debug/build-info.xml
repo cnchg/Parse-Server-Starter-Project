@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="21"
+    density="mdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="17014871474669"
+    token="232742175117183726"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="267" />
+    <task
+        name="instant-run-dex"
+        duration="474" />
+    <task
+        name="instant-run-transform"
+        duration="90" />
+    <task
+        name="verifier"
+        duration="3" />
+
+    <artifact
+        location="C:\Users\CE\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="8172727038466"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\CE\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\outputs\apk\ParseStarterProject-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="16772477814380"
+        verifier="CLASS_ADDED" >
+        <artifact
+            location="C:\Users\CE\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="16851886756964"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CE\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\builds\debug\16851886756964\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="16916122589996"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CE\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\builds\debug\16916122589996\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="17014871474669"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CE\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>
